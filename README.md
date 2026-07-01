@@ -14,15 +14,7 @@ Given two DNA strings `s` and `t`, find all starting positions where `t` appears
 - Pattern Searching
 - Python
 
-## Repository Structure
 
-```
-.
-├── input.txt        # Input dataset
-├── output.txt       # Output results
-├── solution.py      # Python solution
-└── README.md
-```
 
 ## How to Run
 
